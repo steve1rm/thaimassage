@@ -13,7 +13,7 @@ import me.androidbox.thaimassage.R;
  * A simple {@link Fragment} subclass.
  */
 public class LoginView extends Fragment {
-
+    public static final String TAG = LoginView.class.getSimpleName();
 
     public LoginView() {
         // Required empty public constructor

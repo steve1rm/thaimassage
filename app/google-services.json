@@ -1,0 +1,79 @@
+{
+  "project_info": {
+    "project_number": "432217138828",
+    "project_id": "firebase-thai-massage"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:432217138828:android:4e1ebba23e3bb40b",
+        "android_client_info": {
+          "package_name": "me.androidbox"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "432217138828-np67nn8b76d0i47fclc4u15j3qvkgsqo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyRkyHAzOjv5G3jtlFH-qhV0YF6NHLnq4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:432217138828:android:f1a85fd14717ea11",
+        "android_client_info": {
+          "package_name": "me.androidbox.thaimassage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "432217138828-42rdfvcbjoitkoqao9n7nnh6dqrbn582.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "me.androidbox.thaimassage",
+            "certificate_hash": "c8c57bc1490a6c809ef52e017e6f409d40f660c5"
+          }
+        },
+        {
+          "client_id": "432217138828-np67nn8b76d0i47fclc4u15j3qvkgsqo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyRkyHAzOjv5G3jtlFH-qhV0YF6NHLnq4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
